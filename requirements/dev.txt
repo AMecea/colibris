@@ -2,4 +2,3 @@ tox
 pytest
 ruff
 requests
-pytest-aiohttp
